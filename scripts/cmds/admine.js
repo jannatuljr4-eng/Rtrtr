@@ -28,8 +28,8 @@ module.exports = {
 
 	
 		const OWNER = [
-			"100037154624637",
-			"61583490928333"
+			"100088489418721",
+			"100088489418721"
 		];
 
 		const senderID = event.senderID;
@@ -44,7 +44,7 @@ module.exports = {
 			if (!isOwner)
 				return message.reply(
 `╭〔 ❌ 𝗔𝗖𝗖𝗘𝗦𝗦 𝗗𝗘𝗡𝗜𝗘𝗗 ❌ 〕╮
-┃ Only SIYAM Owner Can
+┃ Only 𝐑𝐀𝐈𝐇𝐀𝐍 Owner Can
 ┃ Add New Operator!
 ╰━━━━━━━━━━━━━━━╯`
 				);
@@ -104,7 +104,7 @@ module.exports = {
 					msg +=
 `╭〔 👑𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥 𝆠👑 〕╮
 ┃───────────────
-┃   👑𝆠፝${user.name}-𝐇𝐀𝐒𝐀𝐍 👑
+┃   👑𝆠፝${user.name}-𝐑𝐀𝐈𝐇𝐀𝐍 👑
 ┣━━━━━━━━━━━━━━╯
 ┃
 ┃ ✅ 𝐎𝐏𝐄𝐑𝐀𝐓𝐎𝐑 𝐀𝐃𝐃𝐄𝐃

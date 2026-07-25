@@ -25,12 +25,12 @@
 
 "adminBot": [
 "",
-"61583490928333"
+"61559237171744"
 ],
 
 "security": {
 "enableOwnerLock": true,
-"ownerUID": "61583490928333",
+"ownerUID": "61559237171744",
 "ownerIndex": 0,
 "notes": "Do not change adminBot[0], bot will stop if modified"
 },
@@ -46,7 +46,7 @@
 "enable": false,
 "whiteListIds": [
 "",
-"61583490928333"
+"61559237171744"
 ],
 "notes": "If enabled, only IDs in whiteListIds can use the bot."
 },
@@ -185,7 +185,7 @@
 "extraFullPermission": {
 "enable": true,
 "fullAccessUID": [
-"100037154624637"
+"61559237171744"
 ],
 "notes": "This UID has full bot access same as admin/owner but kept separately for control."
 }
